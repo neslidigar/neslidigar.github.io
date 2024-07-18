@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://neslidigar.github.io/sitemap
+Sitemap: https://neslidigar.github.io/app/sitemap
+Sitemap: https://neslidigar.github.io/assets/sitemap
+Sitemap: https://neslidigar.github.io/css/sitemap
+Sitemap: https://neslidigar.github.io/includes/sitemap
+Sitemap: https://neslidigar.github.io/item/sitemap
+Sitemap: https://neslidigar.github.io/src/sitemap
